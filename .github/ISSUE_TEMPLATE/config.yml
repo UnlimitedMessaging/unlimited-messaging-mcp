@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discord community
+    url: https://discord.gg/danrEJV5Xx
+    about: Questions and help with the MCP server, the API or the apps.
+  - name: Email support
+    url: mailto:contact@unlimitedmessaging.app
+    about: Account or billing questions. Never post personal data or messages in a public issue.
+  - name: Service status
+    url: https://status.unlimitedmessaging.app
+    about: Check whether the MCP server or the API is having an incident.

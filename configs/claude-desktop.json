@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "unlimited-messaging": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.unlimitedmessaging.app"]
+    }
+  }
+}
