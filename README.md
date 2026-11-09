@@ -192,7 +192,6 @@ The MCP server is included in every plan. Messages are never billed one by one.
 | MCP server, API, web app | yes | yes | yes |
 | WhatsApp, email and SMS | yes | yes | yes |
 | "Sent with UnlimitedMessaging.app" footer | yes | no | no |
-| Recipients | list of 50 numbers | no restriction | no restriction |
 
 Full comparison: [unlimitedmessaging.app/pricing](https://unlimitedmessaging.app/pricing)
 
