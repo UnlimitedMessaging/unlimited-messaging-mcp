@@ -34,6 +34,10 @@
 
 <!-- um-header:end -->
 
+<p align="center">
+  <a href="https://glama.ai/mcp/connectors/app.unlimitedmessaging/mcp"><img alt="Unlimited Messaging MCP connector" src="https://glama.ai/mcp/connectors/app.unlimitedmessaging/mcp/badges/score.svg"></a>
+</p>
+
 
 ## What this is
 
@@ -235,6 +239,7 @@ Check [status.unlimitedmessaging.app](https://status.unlimitedmessaging.app), as
 - Guides: [MCP server overview](https://unlimitedmessaging.app/articles/mcp), [Claude](https://unlimitedmessaging.app/articles/mcp-claude), [ChatGPT](https://unlimitedmessaging.app/articles/mcp-chatgpt)
 - Web app: [app.unlimitedmessaging.app](https://app.unlimitedmessaging.app)
 - API docs: [docs.unlimitedmessaging.app](https://docs.unlimitedmessaging.app)
+- Glama: [glama.ai/mcp/connectors/app.unlimitedmessaging/mcp](https://glama.ai/mcp/connectors/app.unlimitedmessaging/mcp)
 - Official MCP Registry: [`app.unlimitedmessaging/mcp`](https://registry.modelcontextprotocol.io/v0/servers?search=app.unlimitedmessaging)
 - SDKs: [npm](https://www.npmjs.com/package/@unlimited-messaging/sdk), [PyPI](https://pypi.org/project/unlimited-messaging), [n8n node](https://www.npmjs.com/package/n8n-nodes-unlimited-messaging)
 - Community: [Discord](https://discord.gg/danrEJV5Xx), [X](https://x.com/unlimitedmess), [Product Hunt](https://www.producthunt.com/products/unlimited-messaging)
